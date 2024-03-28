@@ -3,10 +3,8 @@ The goal of this project is to create a 3D game using raycasting. The project in
 You have a link 🔗 to a very good and very long tutorial about raycasting in the 👉 Tips and links. ../ section in the README.md file.
 Please have a lot of fun Exploring this project ! 😄😁😀
 Deployment
-Landing page (https://ojeifod.wixsite.com/the-maze-explorer)
-Final Project Blog Article (https://ojeifodavid842.hashnode.dev/unveiling-the-maze-project)
 Installation Clone the repository.
-git clone https://github.com/Kingvadee/alx-maze_project.git
+git clone https://github.com/laabk/Maze_Project.git
 cd alx-maze_project
 gcc -Wall -Werror -Wextra -pedantic -o *.c maze
 ./maze
